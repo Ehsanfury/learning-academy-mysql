@@ -1,0 +1,1994 @@
+{
+  "id": "A1-L08",
+  "order": 8,
+  "level": "A1",
+  "unit": 8,
+  "version": "2.1.0",
+  "status": "published",
+  "title": {
+    "fa": "Unterwegs - در راه",
+    "en": "On the Way",
+    "de": "Unterwegs"
+  },
+  "subtitle": {
+    "fa": "وسایل نقلیه، جهت‌یابی و حرف اضافه‌ی mit + Dativ",
+    "en": "Transportation, Directions and mit + Dative",
+    "de": "Verkehrsmittel, Orientierung und mit + Dativ"
+  },
+  "description": {
+    "fa": "در این درس شما با واژگان وسایل نقلیه، ضمیرهای شخصی در Akkusativ (mich, dich, ihn...)، حرف اضافه‌ی mit + Dativ (mit dem Bus, mit der U-Bahn)، حروف ربط und و aber، و جهت‌یابی در شهر آشنا می‌شوید.",
+    "en": "In this lesson you will learn transportation vocabulary, personal pronouns in accusative (mich, dich, ihn...), preposition mit + dative (mit dem Bus), conjunctions und and aber, and city navigation.",
+    "de": "In dieser Lektion lernen Sie Verkehrsmittel, Personalpronomen im Akkusativ, Präposition mit + Dativ, Konjunktionen und/aber und Orientierung in der Stadt."
+  },
+  "estimatedMinutes": 120,
+  "xpReward": 100,
+  "perfectBonusXP": 40,
+  "difficulty": 3,
+  "cefr": "A1.2",
+  "learningObjectives": {
+    "fa": [
+      "نام بردن وسایل نقلیه: das Auto, der Bus, die U-Bahn, die Straßenbahn, das Fahrrad, der Zug, das Flugzeug, das Taxi",
+      "گفتن وسیله نقلیه: Ich fahre mit dem Bus / mit der U-Bahn",
+      "پرسیدن نحوه‌ی رفتن: Wie kommst du hin?",
+      "استفاده از ضمیرهای Akkusativ: mich, dich, ihn, sie, es, uns, euch, sie/Sie",
+      "استفاده از حروف ربط: und (و) و aber (اما)",
+      "گفتن انتخاب: Ich nehme den ICE / das Flugzeug",
+      "پرسیدن مسیر: Wo ist...? Wie komme ich zum Bahnhof?",
+      "فهمیدن اعلامیه‌های ایستگاه: Der Zug fährt ab auf Gleis 5",
+      "گفتن جهت: links, rechts, geradeaus"
+    ],
+    "en": [
+      "Name transportation: das Auto, der Bus, die U-Bahn, die Straßenbahn, das Fahrrad, der Zug, das Flugzeug, das Taxi",
+      "Say transportation: Ich fahre mit dem Bus / mit der U-Bahn",
+      "Ask how to get somewhere: Wie kommst du hin?",
+      "Use accusative pronouns: mich, dich, ihn, sie, es, uns, euch, sie/Sie",
+      "Use conjunctions: und (and) and aber (but)",
+      "Express choice: Ich nehme den ICE / das Flugzeug",
+      "Ask for directions: Wo ist...? Wie komme ich zum Bahnhof?",
+      "Understand station announcements: Der Zug fährt ab auf Gleis 5",
+      "Give directions: links, rechts, geradeaus"
+    ],
+    "de": [
+      "Verkehrsmittel nennen: das Auto, der Bus, die U-Bahn, etc.",
+      "Ich fahre mit dem Bus / mit der U-Bahn",
+      "Nach dem Weg fragen: Wie kommst du hin?",
+      "Personalpronomen Akkusativ: mich, dich, ihn...",
+      "Konjunktionen: und und aber",
+      "Ich nehme den ICE / das Flugzeug",
+      "Nach Orten fragen: Wo ist...?",
+      "Durchsagen am Bahnhof verstehen",
+      "Richtungen: links, rechts, geradeaus"
+    ]
+  },
+  "requiredPreviousKnowledge": {
+    "fa": [
+      "تسلط بر درس ۱-۷",
+      "آشنایی با حالت Akkusativ (der → den)",
+      "آشنایی با حالت Dativ (der → dem, die → der, das → dem)",
+      "صرف فعل‌های fahren, nehmen, kommen"
+    ],
+    "en": [
+      "Mastery of Lessons 1-7",
+      "Familiarity with accusative case",
+      "Familiarity with dative case",
+      "Conjugation of fahren, nehmen, kommen"
+    ],
+    "de": [
+      "Beherrschung von Lektion 1-7",
+      "Vertrautheit mit Akkusativ und Dativ",
+      "Konjugation von fahren, nehmen, kommen"
+    ]
+  },
+  "storyMode": {
+    "title": {
+      "fa": "صحنه داستان (Story Mode) - ادامه",
+      "en": "Story Mode - Continued",
+      "de": "Story Mode - Fortsetzung"
+    },
+    "description": {
+      "fa": "هفته‌ی هشتم کلاس آلمانی. دانشجویان امروز درباره‌ی وسایل نقلیه و نحوه‌ی رفت‌وآمدشان صحبت می‌کنند. Lara در برلین با دوچرخه می‌رود، Daniel در وین با مترو، Christine در دوسلدورف از Carsharing استفاده می‌کند. Linda و Ben در دفتر بحث می‌کنند که با هواپیما برود یا با قطار. داستان ما در خیابان‌ها و ایستگاه‌ها ادامه پیدا می‌کند.",
+      "en": "Eighth week of German class. Today students discuss transportation and commuting. Lara bikes in Berlin, Daniel takes the metro in Vienna, Christine uses carsharing in Düsseldorf. Linda and Ben debate plane vs train. Our story continues on streets and stations.",
+      "de": "Achte Woche. Die Studierenden sprechen über Verkehrsmittel und Pendeln. Lara fährt in Berlin Fahrrad, Daniel nimmt in Wien die U-Bahn."
+    },
+    "characters": [
+      {
+        "name": "Lara",
+        "persian": "لا-را",
+        "country": "آلمان",
+        "age": 21,
+        "job": "دانشجو",
+        "transport": "Fahrrad"
+      },
+      {
+        "name": "Daniel",
+        "persian": "دا-نی-اِل",
+        "country": "اتریش",
+        "age": 19,
+        "job": "دانش‌آموز",
+        "transport": "U-Bahn"
+      },
+      {
+        "name": "Christine",
+        "persian": "کریس-تی-نِه",
+        "country": "آلمان",
+        "age": 28,
+        "job": "مدیر",
+        "transport": "Carsharing"
+      },
+      {
+        "name": "Linda",
+        "persian": "لین-دا",
+        "country": "آلمان",
+        "age": 25,
+        "job": "کارمند",
+        "transport": "Flugzeug"
+      },
+      {
+        "name": "Ben",
+        "persian": "بِن",
+        "country": "آلمان",
+        "age": 30,
+        "job": "مدیر",
+        "transport": "ICE (Zug)"
+      }
+    ]
+  },
+  "lessonIntroduction": {
+    "title": {
+      "fa": "به درس هشتم خوش آمدید — Unterwegs!",
+      "en": "Welcome to Lesson 8 — On the Way!",
+      "de": "Willkommen zu Lektion 8 — Unterwegs!"
+    },
+    "content": {
+      "fa": "تصور کنید در ایستگاه قطار برلین ایستاده‌اید. باید بپرسید: «Wie komme ich zum Bahnhof?» (چطور به ایستگاه بروم؟) یا بگویید: «Ich fahre mit der U-Bahn» (با مترو می‌روم).\n\nاین درس به شما کمک می‌کند تا درباره‌ی وسایل نقلیه صحبت کنید، مسیر بپرسید، و در ایستگاه‌ها و خیابان‌های آلمان راه پیدا کنید. شما با ضمیرهای Akkusativ و حرف اضافه‌ی mit + Dativ آشنا می‌شوید.",
+      "en": "Imagine standing at Berlin train station. You need to ask: 'Wie komme ich zum Bahnhof?' or say: 'Ich fahre mit der U-Bahn'.\n\nThis lesson helps you talk about transportation, ask for directions, and navigate German stations and streets. You'll learn accusative pronouns and mit + dative.",
+      "de": "Stell dir vor, du stehst am Berliner Bahnhof. Du fragst: 'Wie komme ich zum Bahnhof?' oder sagst: 'Ich fahre mit der U-Bahn'."
+    },
+    "imagePrompt": "Berlin transportation scene: U-Bahn, bus, bicycle, carsharing, train station with departures board, people navigating city streets with map"
+  },
+  "pronunciationGuide": {
+    "title": {
+      "fa": "راهنمای تلفظ - سیستم دوزبانه",
+      "en": "Pronunciation Guide - Bilingual System",
+      "de": "Ausspracheführer - Zweisprachiges System"
+    },
+    "layers": {
+      "fa": "سه لایه: تلفظ فارسی، IPA، توصیف فیزیکی. این درس روی تلفظ وسایل نقلیه تمرکز می‌کند.",
+      "en": "Three layers: Persian, IPA, physical. This lesson focuses on transportation vocabulary pronunciation.",
+      "de": "Drei Schichten. Diese Lektion konzentriert sich auf Verkehrsmittel-Aussprache."
+    },
+    "sounds": [
+      {
+        "id": "sound-r",
+        "letter": "r (مرور)",
+        "description": {
+          "fa": "غُرّی",
+          "en": "uvular",
+          "de": "uvular"
+        },
+        "ipa": "[ʁ]",
+        "persianEquivalent": "≈ غُرّ گربه",
+        "commonMistake": {
+          "fa": "مثل ر فارسی",
+          "en": "like Persian r",
+          "de": "wie persisches r"
+        },
+        "examples": [
+          {
+            "word": "Straßenbahn",
+            "persian": "اشترا-زِن-بان",
+            "meaning": "تراموا"
+          },
+          {
+            "word": "Motorrad",
+            "persian": "مو-تور-رات",
+            "meaning": "موتورسیکلت"
+          }
+        ]
+      },
+      {
+        "id": "sound-st-sp",
+        "letter": "st / sp (مرور)",
+        "description": {
+          "fa": "مثل شت و شپ",
+          "en": "like sht and shp",
+          "de": "wie scht und schp"
+        },
+        "ipa": "[ʃt] / [ʃp]",
+        "persianEquivalent": "≈ شت و شپ",
+        "commonMistake": {
+          "fa": "تلفظ ست و سپ",
+          "en": "pronouncing st and sp",
+          "de": "st und sp"
+        },
+        "examples": [
+          {
+            "word": "Straßenbahn",
+            "persian": "اشترا-زِن-بان",
+            "meaning": "تراموا"
+          },
+          {
+            "word": "Stau",
+            "persian": "اشداو",
+            "meaning": "ترافیک"
+          }
+        ]
+      },
+      {
+        "id": "sound-eu",
+        "letter": "eu (مرور)",
+        "description": {
+          "fa": "مثل او-ی",
+          "en": "like oi",
+          "de": "wie oi"
+        },
+        "ipa": "[ɔɪ̯]",
+        "persianEquivalent": "≈ او-ی",
+        "commonMistake": {
+          "fa": "مثل او",
+          "en": "like ou",
+          "de": "wie au"
+        },
+        "examples": [
+          {
+            "word": "Auto",
+            "persian": "آو-تو",
+            "meaning": "ماشین"
+          },
+          {
+            "word": "Braucht",
+            "persian": "براوخت",
+            "meaning": "نیاز دارد"
+          }
+        ]
+      },
+      {
+        "id": "sound-sch",
+        "letter": "sch (مرور)",
+        "description": {
+          "fa": "مثل ش",
+          "en": "like sh",
+          "de": "wie sch"
+        },
+        "ipa": "[ʃ]",
+        "persianEquivalent": "≈ ش",
+        "commonMistake": {
+          "fa": "مثل س",
+          "en": "like s",
+          "de": "wie s"
+        },
+        "examples": [
+          {
+            "word": "Schienen",
+            "persian": "شی-نِن",
+            "meaning": "ریل"
+          },
+          {
+            "word": "Fahrschein",
+            "persian": "فار-شاین",
+            "meaning": "بلیت"
+          }
+        ]
+      }
+    ]
+  },
+  "greetings": {
+    "items": []
+  },
+  "greetingsTable": {
+    "headers": [],
+    "rows": []
+  },
+  "vocabulary": [
+    {
+      "id": "voc-auto",
+      "de": "Auto",
+      "article": "das",
+      "plural": "Autos",
+      "ipa": "[ˈaʊ̯to]",
+      "fa": "ماشین",
+      "en": "car",
+      "example": {
+        "de": "Ich fahre mit dem Auto.",
+        "fa": "من با ماشین می‌روم.",
+        "en": "I go by car."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Auto. 'mit dem Auto' (Dativ). جمع با -s",
+        "en": "neuter. 'mit dem Auto' (dative)",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'au' مثل 'آو' کشیده",
+        "en": "long 'au'",
+        "de": "lang au"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-bus",
+      "de": "Bus",
+      "article": "der",
+      "plural": "Busse",
+      "ipa": "[bʊs]",
+      "fa": "اتوبوس",
+      "en": "bus",
+      "example": {
+        "de": "Ich nehme den Bus.",
+        "fa": "من اتوبوس سوار می‌شوم.",
+        "en": "I take the bus."
+      },
+      "usageNotes": {
+        "fa": "مذکر - der Bus. 'mit dem Bus fahren'",
+        "en": "masculine. 'mit dem Bus fahren'",
+        "de": "Maskulin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'u' کوتاه و 's' مثل 'س'",
+        "en": "short 'u' and 's' like 's'",
+        "de": "kurz u"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-u-bahn",
+      "de": "U-Bahn",
+      "article": "die",
+      "plural": "U-Bahnen",
+      "ipa": "[ˈuːˌbaːn]",
+      "fa": "مترو",
+      "en": "subway, metro",
+      "example": {
+        "de": "Ich fahre mit der U-Bahn.",
+        "fa": "من با مترو می‌روم.",
+        "en": "I go by subway."
+      },
+      "usageNotes": {
+        "fa": "مؤنث - die U-Bahn. 'mit der U-Bahn' (Dativ). مرکب: Untergrund + Bahn",
+        "en": "feminine. 'mit der U-Bahn' (dative)",
+        "de": "Feminin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'U' کشیده و 'B' نرم",
+        "en": "long 'U'",
+        "de": "lang U"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-strassenbahn",
+      "de": "Straßenbahn",
+      "article": "die",
+      "plural": "Straßenbahnen",
+      "ipa": "[ˈʃtʁaːsn̩ˌbaːn]",
+      "fa": "تراموا",
+      "en": "tram, streetcar",
+      "example": {
+        "de": "Die Straßenbahn ist bequem.",
+        "fa": "تراموا راحت است.",
+        "en": "The tram is comfortable."
+      },
+      "usageNotes": {
+        "fa": "مؤنث - die Straßenbahn. مرکب: Straße + Bahn. 'mit der Straßenbahn'",
+        "en": "feminine. Compound: Straße + Bahn",
+        "de": "Feminin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'st' مثل 'شت' و 'ß' مثل 'س' سخت",
+        "en": "'st' like 'sht' and 'ß' like hard 's'",
+        "de": "st, ß"
+      },
+      "difficulty": 2,
+      "frequency": 4
+    },
+    {
+      "id": "voc-fahrrad",
+      "de": "Fahrrad",
+      "article": "das",
+      "plural": "Fahrräder",
+      "ipa": "[ˈfaːɐ̯ˌʁaːt]",
+      "fa": "دوچرخه",
+      "en": "bicycle",
+      "example": {
+        "de": "Ich fahre mit dem Fahrrad.",
+        "fa": "من با دوچرخه می‌روم.",
+        "en": "I go by bike."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Fahrrad. 'mit dem Fahrrad'. جمع با Umlaut: Fahrräder",
+        "en": "neuter. 'mit dem Fahrrad'",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'r' غُرّی و 'a' کشیده",
+        "en": "uvular 'r' and long 'a'",
+        "de": "r, a"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-zug",
+      "de": "Zug",
+      "article": "der",
+      "plural": "Züge",
+      "ipa": "[tsuːk]",
+      "fa": "قطار",
+      "en": "train",
+      "example": {
+        "de": "Ich nehme den Zug.",
+        "fa": "من قطار سوار می‌شوم.",
+        "en": "I take the train."
+      },
+      "usageNotes": {
+        "fa": "مذکر - der Zug. جمع با Umlaut: Züge. 'mit dem Zug'",
+        "en": "masculine. Plural with umlaut: Züge",
+        "de": "Maskulin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'z' مثل 'تس' و 'u' کشیده",
+        "en": "'z' like 'ts' and long 'u'",
+        "de": "z, u"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-flugzeug",
+      "de": "Flugzeug",
+      "article": "das",
+      "plural": "Flugzeuge",
+      "ipa": "[ˈfluːkˌtsɔɪ̯k]",
+      "fa": "هواپیما",
+      "en": "airplane",
+      "example": {
+        "de": "Ich nehme das Flugzeug.",
+        "fa": "من هواپیما سوار می‌شوم.",
+        "en": "I take the airplane."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Flugzeug. مرکب: Flug + Zeug. 'mit dem Flugzeug'",
+        "en": "neuter. Compound: Flug + Zeug",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "کلمه طولانی - 'u' کشیده، 'z' مثل تس، 'eu' مثل او-ی",
+        "en": "long word - long 'u', 'z' like 'ts', 'eu' like 'oi'",
+        "de": "langes Wort"
+      },
+      "difficulty": 3,
+      "frequency": 4
+    },
+    {
+      "id": "voc-taxi",
+      "de": "Taxi",
+      "article": "das",
+      "plural": "Taxis",
+      "ipa": "[ˈtaksi]",
+      "fa": "تاکسی",
+      "en": "taxi",
+      "example": {
+        "de": "Ich nehme ein Taxi.",
+        "fa": "من تاکسی می‌گیرم.",
+        "en": "I take a taxi."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Taxi. جمع با -s",
+        "en": "neuter. Plural with -s",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'x' مثل 'کس'",
+        "en": "'x' like 'ks'",
+        "de": "x wie ks"
+      },
+      "difficulty": 1,
+      "frequency": 4
+    },
+    {
+      "id": "voc-motorrad",
+      "de": "Motorrad",
+      "article": "das",
+      "plural": "Motorräder",
+      "ipa": "[ˈmoːtoɐ̯ˌʁaːt]",
+      "fa": "موتورسیکلت",
+      "en": "motorcycle",
+      "example": {
+        "de": "Er fährt mit dem Motorrad.",
+        "fa": "او با موتور می‌رود.",
+        "en": "He goes by motorcycle."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Motorrad. مرکب: Motor + Rad",
+        "en": "neuter. Compound: Motor + Rad",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'r' غُرّی در دو جای کلمه",
+        "en": "uvular 'r' in two places",
+        "de": "r"
+      },
+      "difficulty": 2,
+      "frequency": 3
+    },
+    {
+      "id": "voc-bahnhof-l8",
+      "de": "Bahnhof",
+      "article": "der",
+      "plural": "Bahnhöfe",
+      "ipa": "[ˈbaːnˌhoːf]",
+      "fa": "ایستگاه قطار",
+      "en": "train station",
+      "example": {
+        "de": "Wie komme ich zum Bahnhof?",
+        "fa": "چطور به ایستگاه بروم؟",
+        "en": "How do I get to the station?"
+      },
+      "usageNotes": {
+        "fa": "مذکر - der Bahnhof. مرکب: Bahn + Hof",
+        "en": "masculine. Compound: Bahn + Hof",
+        "de": "Maskulin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'a' و 'o' کشیده",
+        "en": "long 'a' and 'o'",
+        "de": "lang a, o"
+      },
+      "difficulty": 2,
+      "frequency": 5
+    },
+    {
+      "id": "voc-gleis",
+      "de": "Gleis",
+      "article": "das",
+      "plural": "Gleise",
+      "ipa": "[glaɪ̯s]",
+      "fa": "سکره قطار",
+      "en": "platform, track",
+      "example": {
+        "de": "Der Zug fährt ab auf Gleis 5.",
+        "fa": "قطار از سکره ۵ حرکت می‌کند.",
+        "en": "The train departs from platform 5."
+      },
+      "usageNotes": {
+        "fa": "خنثی - das Gleis. 'auf Gleis 5'",
+        "en": "neuter. 'auf Gleis 5'",
+        "de": "Neutral"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'ei' کشیده و 's' سخت",
+        "en": "long 'ei' and hard 's'",
+        "de": "ei, s"
+      },
+      "difficulty": 3,
+      "frequency": 3
+    },
+    {
+      "id": "voc-abfahrt",
+      "de": "Abfahrt",
+      "article": "die",
+      "plural": "Abfahrten",
+      "ipa": "[ˈapˌfaːɐ̯t]",
+      "fa": "حرکت (قطار/اتوبوس)",
+      "en": "departure",
+      "example": {
+        "de": "Die Abfahrt ist um 8 Uhr.",
+        "fa": "حرکت ساعت ۸ است.",
+        "en": "Departure is at 8 o'clock."
+      },
+      "usageNotes": {
+        "fa": "مؤنث - die Abfahrt. از abfahren (حرکت کردن)",
+        "en": "feminine. From abfahren",
+        "de": "Feminin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'b' نرم و 'f' و 'r' غُرّی",
+        "en": "soft 'b', 'f', uvular 'r'",
+        "de": "b, f, r"
+      },
+      "difficulty": 3,
+      "frequency": 4
+    },
+    {
+      "id": "voc-ankommen",
+      "de": "ankommen",
+      "article": "",
+      "plural": "",
+      "ipa": "[ˈanˌkɔmən]",
+      "fa": "رسیدن (به مقصد)",
+      "en": "to arrive",
+      "example": {
+        "de": "Wann kommst du an?",
+        "fa": "کی می‌رسی؟",
+        "en": "When do you arrive?"
+      },
+      "usageNotes": {
+        "fa": "فعل جداشونده: an + kommen. Ich komme ... an",
+        "en": "separable verb: an + kommen",
+        "de": "Trennbares Verb"
+      },
+      "commonMistakes": {
+        "fa": "فراموش کردن جدا کردن: نگویید 'Ich ankomme'",
+        "en": "Forgetting to separate",
+        "de": "Vergessen zu trennen"
+      },
+      "difficulty": 2,
+      "frequency": 5
+    },
+    {
+      "id": "voc-abholen",
+      "de": "abholen",
+      "article": "",
+      "plural": "",
+      "ipa": "[ˈapˌhoːlən]",
+      "fa": "برداشتن (کسی را)",
+      "en": "to pick up (someone)",
+      "example": {
+        "de": "Ich hole dich ab.",
+        "fa": "من تو را می‌برم (برداشتن).",
+        "en": "I pick you up."
+      },
+      "usageNotes": {
+        "fa": "فعل جداشونده: ab + holen. 'Holst du mich ab?' (مرا برمی‌داری؟)",
+        "en": "separable verb: ab + holen. Used with accusative pronouns",
+        "de": "Trennbares Verb"
+      },
+      "commonMistakes": {
+        "fa": "فراموش کردن جدا کردن و ضمیر Akkusativ",
+        "en": "Forgetting to separate and accusative pronoun",
+        "de": "Trennen und Akkusativpronomen"
+      },
+      "difficulty": 3,
+      "frequency": 4
+    },
+    {
+      "id": "voc-stau",
+      "de": "Stau",
+      "article": "der",
+      "plural": "Staus",
+      "ipa": "[ʃtaʊ̯]",
+      "fa": "ترافیک",
+      "en": "traffic jam",
+      "example": {
+        "de": "Es gibt viel Verkehr und Staus.",
+        "fa": "ترافیک و congestion زیاد است.",
+        "en": "There's a lot of traffic and jams."
+      },
+      "usageNotes": {
+        "fa": "مذکر - der Stau. 'im Stau stehen' = در ترافیک گیر کردن",
+        "en": "masculine. 'im Stau stehen' = to be stuck in traffic",
+        "de": "Maskulin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'st' مثل 'شت' و 'au' کشیده",
+        "en": "'st' like 'sht' and long 'au'",
+        "de": "st, au"
+      },
+      "difficulty": 2,
+      "frequency": 4
+    },
+    {
+      "id": "voc-verkehr",
+      "de": "Verkehr",
+      "article": "der",
+      "plural": "",
+      "ipa": "[fɛɐ̯ˈkeːɐ̯]",
+      "fa": "ترافیک، رفت‌وآمد",
+      "en": "traffic, transport",
+      "example": {
+        "de": "Es gibt viel Verkehr.",
+        "fa": "رفت‌وآمد زیاد است.",
+        "en": "There's a lot of traffic."
+      },
+      "usageNotes": {
+        "fa": "مذکر - der Verkehr. 'die Verkehrsmittel' = وسایل نقلیه",
+        "en": "masculine. 'die Verkehrsmittel' = means of transport",
+        "de": "Maskulin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'V' مثل 'ف' و 'r' غُرّی در دو جای کلمه",
+        "en": "'V' like 'f' and uvular 'r' in two places",
+        "de": "V, r"
+      },
+      "difficulty": 2,
+      "frequency": 4
+    },
+    {
+      "id": "voc-umwelt",
+      "de": "Umwelt",
+      "article": "die",
+      "plural": "",
+      "ipa": "[ˈʊmˌvɛlt]",
+      "fa": "محیط زیست",
+      "en": "environment",
+      "example": {
+        "de": "Fahrräder sind gut für die Umwelt.",
+        "fa": "دوچرخه برای محیط زیست خوب است.",
+        "en": "Bikes are good for the environment."
+      },
+      "usageNotes": {
+        "fa": "مؤنث - die Umwelt. 'gut für die Umwelt' = خوب برای محیط زیست",
+        "en": "feminine. 'gut für die Umwelt'",
+        "de": "Feminin"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'U' کوتاه و 'W' مثل 'و'",
+        "en": "short 'U' and 'W' like 'v'",
+        "de": "U, W"
+      },
+      "difficulty": 3,
+      "frequency": 4
+    },
+    {
+      "id": "voc-bequem",
+      "de": "bequem",
+      "article": "",
+      "plural": "",
+      "ipa": "[bəˈqeːm]",
+      "fa": "راحت",
+      "en": "comfortable",
+      "example": {
+        "de": "Die U-Bahn ist bequem.",
+        "fa": "مترو راحت است.",
+        "en": "The subway is comfortable."
+      },
+      "usageNotes": {
+        "fa": "صفت. متضاد: unbequem (ناراحت)",
+        "en": "adjective. Opposite: unbequem",
+        "de": "Adjektiv"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'q' مثل 'ک' و 'e' کشیده",
+        "en": "'q' like 'k' and long 'e'",
+        "de": "q, e"
+      },
+      "difficulty": 2,
+      "frequency": 4
+    },
+    {
+      "id": "voc-billig",
+      "de": "billig",
+      "article": "",
+      "plural": "",
+      "ipa": "[ˈbɪlɪç]",
+      "fa": "ارزان",
+      "en": "cheap",
+      "example": {
+        "de": "Busse sind billig.",
+        "fa": "اتوبوس ارزان است.",
+        "en": "Buses are cheap."
+      },
+      "usageNotes": {
+        "fa": "صفت. متضاد: teuer (گران). 'ig' مثل 'ایخ' تلفظ می‌شود",
+        "en": "adjective. Opposite: teuer. 'ig' like 'ich'",
+        "de": "Adjektiv"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'i' کوتاه و 'ig' مثل 'ایخ'",
+        "en": "short 'i' and 'ig' like 'ich'",
+        "de": "i, ig"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    },
+    {
+      "id": "voc-schnell",
+      "de": "schnell",
+      "article": "",
+      "plural": "",
+      "ipa": "[ʃnɛl]",
+      "fa": "سریع",
+      "en": "fast",
+      "example": {
+        "de": "Das Flugzeug ist schnell.",
+        "fa": "هواپیما سریع است.",
+        "en": "The airplane is fast."
+      },
+      "usageNotes": {
+        "fa": "صفت. متضاد: langsam (کند)",
+        "en": "adjective. Opposite: langsam",
+        "de": "Adjektiv"
+      },
+      "commonMistakes": {
+        "fa": "تلفظ 'sch' مثل 'ش' و 'e' کوتاه",
+        "en": "'sch' like 'sh' and short 'e'",
+        "de": "sch, e"
+      },
+      "difficulty": 1,
+      "frequency": 5
+    }
+  ],
+  "grammar": {
+    "topics": [
+      {
+        "id": "gram-mit-dativ",
+        "title": {
+          "fa": "حرف اضافه‌ی mit + Dativ (با چه وسیله‌ای)",
+          "en": "Preposition mit + Dative (by what means)",
+          "de": "Präposition mit + Dativ"
+        },
+        "concept": {
+          "fa": "برای گفتن با چه وسیله نقلیه‌ای سفر می‌کنید، از mit + Dativ استفاده می‌کنید: mit dem Bus, mit der U-Bahn, mit dem Auto. mit همیشه با Dativ می‌آید.",
+          "en": "To say by what means of transport you travel, use mit + dative: mit dem Bus, mit der U-Bahn, mit dem Auto. mit always takes dative.",
+          "de": "Für Verkehrsmittel verwenden Sie mit + Dativ: mit dem Bus, mit der U-Bahn."
+        },
+        "conjugationTable": {
+          "headers": ["جنسیت", "Nominativ", "Dativ", "mit + Dativ", "مثال"],
+          "rows": [
+            [
+              "مذکر",
+              "der Bus",
+              "dem Bus",
+              "mit dem Bus",
+              "Ich fahre mit dem Bus."
+            ],
+            [
+              "مؤنث",
+              "die U-Bahn",
+              "der U-Bahn",
+              "mit der U-Bahn",
+              "Ich fahre mit der U-Bahn."
+            ],
+            [
+              "خنثی",
+              "das Auto",
+              "dem Auto",
+              "mit dem Auto",
+              "Ich fahre mit dem Auto."
+            ],
+            [
+              "خنثی",
+              "das Fahrrad",
+              "dem Fahrrad",
+              "mit dem Fahrrad",
+              "Ich fahre mit dem Fahrrad."
+            ],
+            [
+              "مذکر",
+              "der Zug",
+              "dem Zug",
+              "mit dem Zug",
+              "Ich fahre mit dem Zug."
+            ]
+          ]
+        },
+        "pattern": {
+          "fa": "قانون: mit + Dativ (همیشه!). مذکر/خنثی: mit dem. مؤنث: mit der. بدون حرف تعریف برای zu Fuß (پیاده).",
+          "en": "Rule: mit + dative (always!). Masc/Neut: mit dem. Fem: mit der. No article for zu Fuß (on foot).",
+          "de": "Regel: mit + Dativ (immer!). Mask/Neut: mit dem. Fem: mit der."
+        }
+      },
+      {
+        "id": "gram-akkusativ-pronomen",
+        "title": {
+          "fa": "ضمیرهای شخصی در Akkusativ",
+          "en": "Personal Pronouns in Accusative",
+          "de": "Personalpronomen im Akkusativ"
+        },
+        "concept": {
+          "fa": "وقتی ضمیر مفعول مستقیم فعل است، در Akkusativ قرار می‌گیرد: mich (مرا)، dich (تورا)، ihn (او را-مرد)، sie (او را-زن)، es (آن را)، uns (ما را)، euch (شما را)، sie/Sie (آن‌ها/شما را).",
+          "en": "When a pronoun is the direct object, it's in accusative: mich (me), dich (you), ihn (him), sie (her), es (it), uns (us), euch (you pl), sie/Sie (them/you formal).",
+          "de": "Wenn ein Pronomen das direkte Objekt ist, steht es im Akkusativ."
+        },
+        "conjugationTable": {
+          "headers": ["Nominativ", "Akkusativ", "تلفظ فارسی", "معنی", "مثال"],
+          "rows": [
+            ["ich", "mich", "میخ", "مرا", "Holst du mich ab?"],
+            ["du", "dich", "دیخ", "تورا", "Ich sehe dich."],
+            ["er", "ihn", "این", "او را (مرد)", "Ich sehe ihn."],
+            ["sie", "sie", "زی", "او را (زن)", "Ich sehe sie."],
+            ["es", "es", "اِس", "آن را", "Ich nehme es."],
+            ["wir", "uns", "اونس", "ما را", "Ich sehe uns."],
+            ["ihr", "euch", "اویخ", "شما را (جمع)", "Ich sehe euch."],
+            ["sie/Sie", "sie/Sie", "زی", "آن‌ها/شما را", "Ich sehe sie."]
+          ]
+        },
+        "pattern": {
+          "fa": "تغییرها: ich→mich, du→dich, er→ihn, wir→uns, ihr→euch. بقیه ثابت می‌مانند: sie→sie, es→es.",
+          "en": "Changes: ich→mich, du→dich, er→ihn, wir→uns, ihr→euch. Others stay same: sie→sie, es→es.",
+          "de": "Änderungen: ich→mich, du→dich, er→ihn, wir→uns, ihr→euch."
+        }
+      },
+      {
+        "id": "gram-konjunktionen",
+        "title": {
+          "fa": "حروف ربط: und (و) و aber (اما)",
+          "en": "Conjunctions: und (and) and aber (but)",
+          "de": "Konjunktionen: und und aber"
+        },
+        "concept": {
+          "fa": "und و aber دو جمله را به هم وصل می‌کنند. und (و) برای افزودن، aber (اما) برای تضاد استفاده می‌شود. این حروف ربط جایگاه فعل را تغییر نمی‌دهند — فعل همچنان در جایگاه دوم می‌ماند.",
+          "en": "und and aber connect two sentences. und (and) adds, aber (but) contrasts. These conjunctions don't change word order — verb stays in position 2.",
+          "de": "und und aber verbinden Sätze. und fügt hinzu, aber zeigt Gegensatz."
+        },
+        "conjugationTable": {
+          "headers": ["حرف ربط", "معنی", "مثال", "ترجمه"],
+          "rows": [
+            [
+              "und",
+              "و (افزودن)",
+              "Ich fahre mit dem Bus und ich lese.",
+              "من با اتوبوس می‌روم و می‌خوانم."
+            ],
+            [
+              "aber",
+              "اما (تضاد)",
+              "Fliegen ist schnell, aber teuer.",
+              "پرواز سریع است، اما گران."
+            ],
+            [
+              "und",
+              "و",
+              "Man kann lesen und arbeiten.",
+              "می‌توان خواند و کار کرد."
+            ],
+            [
+              "aber",
+              "اما",
+              "Der Bus ist billig, aber langsam.",
+              "اتوبوس ارزان است، اما کند."
+            ]
+          ]
+        },
+        "pattern": {
+          "fa": "قانون: und و aber جایگاه فعل را تغییر نمی‌دهند. فعل بعد از آنها در جایگاه دوم می‌ماند.",
+          "en": "Rule: und and aber don't change word order. Verb stays in position 2 after them.",
+          "de": "Regel: und und aber ändern die Wortstellung nicht."
+        }
+      },
+      {
+        "id": "gram-ich-nehme",
+        "title": {
+          "fa": "Ich nehme + Akkusativ (انتخاب کردن)",
+          "en": "Ich nehme + Accusative (choosing)",
+          "de": "Ich nehme + Akkusativ"
+        },
+        "concept": {
+          "fa": "برای گفتن که کدام وسیله نقلیه را انتخاب می‌کنید، از فعل nehmen با Akkusativ استفاده می‌کنید: Ich nehme den Bus / den Zug / das Flugzeug / das Taxi.",
+          "en": "To say which transport you choose, use nehmen with accusative: Ich nehme den Bus / den Zug / das Flugzeug.",
+          "de": "Um ein Verkehrsmittel zu wählen, verwenden Sie nehmen + Akkusativ."
+        },
+        "examples": {
+          "fa": [
+            "Ich nehme den ICE. (من قطار ICE را انتخاب می‌کنم.)",
+            "Ich nehme das Flugzeug. (من هواپیما را انتخاب می‌کنم.)",
+            "Ich nehme den Bus. (من اتوبوس را انتخاب می‌کنم.)",
+            "Nimmst du das Taxi? (تاکسی می‌گیری؟)"
+          ],
+          "en": [
+            "Ich nehme den ICE.",
+            "Ich nehme das Flugzeug.",
+            "Ich nehme den Bus.",
+            "Nimmst du das Taxi?"
+          ],
+          "de": [
+            "Ich nehme den ICE.",
+            "Ich nehme das Flugzeug.",
+            "Ich nehme den Bus."
+          ]
+        }
+      },
+      {
+        "id": "gram-wie-kommen",
+        "title": {
+          "fa": "پرسیدن نحوه‌ی رفتن: Wie kommst du hin?",
+          "en": "Asking How to Get There: Wie kommst du hin?",
+          "de": "Nach dem Weg fragen: Wie kommst du hin?"
+        },
+        "concept": {
+          "fa": "برای پرسیدن که کسی چطور به جایی می‌رود، از 'Wie kommst du hin?' استفاده می‌کنید. پاسخ معمولاً با mit + Dativ یا zu Fuß (پیاده) است.",
+          "en": "To ask how someone gets somewhere, use 'Wie kommst du hin?' The answer usually uses mit + dative or zu Fuß (on foot).",
+          "de": "Um zu fragen, wie jemand irgendwohin kommt: 'Wie kommst du hin?'"
+        },
+        "examples": {
+          "fa": [
+            "Wie kommst du ins Büro? — Ich fahre mit der U-Bahn. (چطور به دفتر می‌روی؟ - با مترو.)",
+            "Wie kommst du zur Uni? — Ich gehe zu Fuß. (چطور به دانشگاه می‌روی؟ - پیاده.)",
+            "Wie kommen wir in die Stadt? — Wir fahren mit dem Bus. (چطور به شهر برویم؟ - با اتوبوس.)"
+          ],
+          "en": [
+            "Wie kommst du ins Büro? — Ich fahre mit der U-Bahn.",
+            "Wie kommst du zur Uni? — Ich gehe zu Fuß.",
+            "Wie kommen wir in die Stadt? — Wir fahren mit dem Bus."
+          ],
+          "de": [
+            "Wie kommst du ins Büro? — Ich fahre mit der U-Bahn.",
+            "Wie kommst du zur Uni? — Ich gehe zu Fuß.",
+            "Wie kommen wir in die Stadt? — Wir fahren mit dem Bus."
+          ]
+        }
+      }
+    ]
+  },
+  "dialogues": [
+    {
+      "id": "dialog-transport-1",
+      "title": {
+        "fa": "دیالوگ وسایل نقلیه - چطور می‌روی؟",
+        "en": "Transport Dialogue - How Do You Go?",
+        "de": "Verkehrsmittel-Dialog"
+      },
+      "characters": [
+        {
+          "name": "David",
+          "role": "دانش‌آموز"
+        },
+        {
+          "name": "Emilia",
+          "role": "دانش‌آموز"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "David",
+          "german": "Wie kommst du ins Büro, Emilia? Zu Fuß?",
+          "persian": "وای کومست دو اینس بو-رو، اِمی-لی-ا? تسو فوس؟",
+          "meaning": {
+            "fa": "چطور به دفتر می‌روی، امیلیا؟ پیاده؟",
+            "en": "How do you get to the office, Emilia? On foot?",
+            "de": "Wie kommst du ins Büro, Emilia? Zu Fuß?"
+          }
+        },
+        {
+          "speaker": "Emilia",
+          "german": "Nein, mit der U-Bahn oder mit dem Bus.",
+          "persian": "ناین، میت دِر او-بان اودِر میت دِم بوس.",
+          "meaning": {
+            "fa": "نه، با مترو یا اتوبوس.",
+            "en": "No, by subway or by bus.",
+            "de": "Nein, mit der U-Bahn oder mit dem Bus."
+          }
+        },
+        {
+          "speaker": "David",
+          "german": "Ah, okay. Und du, David?",
+          "persian": "آ، او-کِه. اوند دو، دا-وی-د؟",
+          "meaning": {
+            "fa": "آه، باشه. و تو، دیوید؟",
+            "en": "Ah, okay. And you, David?",
+            "de": "Und du, David?"
+          }
+        },
+        {
+          "speaker": "David",
+          "german": "Ich nehme das Auto.",
+          "persian": "ایخ نِ-مِه داس آو-تو.",
+          "meaning": {
+            "fa": "من ماشین می‌گیرم.",
+            "en": "I take the car.",
+            "de": "Ich nehme das Auto."
+          }
+        }
+      ],
+      "analysis": [
+        {
+          "phrase": "Wie kommst du hin",
+          "persian": "وای کومست دو هین",
+          "meaning": "چطور می‌روی؟ (hinkommen)"
+        },
+        {
+          "phrase": "Zu Fuß",
+          "persian": "تسو فوس",
+          "meaning": "پیاده"
+        },
+        {
+          "phrase": "mit der U-Bahn",
+          "persian": "میت دِر او-بان",
+          "meaning": "با مترو (mit + Dativ مؤنث)"
+        },
+        {
+          "phrase": "mit dem Bus",
+          "persian": "میت دِم بوس",
+          "meaning": "با اتوبوس (mit + Dativ مذکر)"
+        },
+        {
+          "phrase": "Ich nehme das Auto",
+          "persian": "ایخ نِ-مِه داس آو-تو",
+          "meaning": "ماشین می‌گیرم (nehmen + Akkusativ)"
+        }
+      ]
+    },
+    {
+      "id": "dialog-bahnhof-1",
+      "title": {
+        "fa": "دیالوگ ایستگاه - قطار یا هواپیما؟",
+        "en": "Station Dialogue - Train or Plane?",
+        "de": "Bahnhofs-Dialog - Zug oder Flugzeug?"
+      },
+      "characters": [
+        {
+          "name": "Linda",
+          "role": "کارمند"
+        },
+        {
+          "name": "Ben",
+          "role": "مدیر"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "Linda",
+          "german": "Und wie kommst du nach Berlin?",
+          "persian": "اوند وای کومست دو ناخ بِر-لین؟",
+          "meaning": {
+            "fa": "و چطور به برلین می‌روی؟",
+            "en": "And how do you get to Berlin?",
+            "de": "Und wie kommst du nach Berlin?"
+          }
+        },
+        {
+          "speaker": "Linda",
+          "german": "Ich nehme das Flugzeug. Fliegen ist so schnell und billig!",
+          "persian": "ایخ نِ-مِه داس فلوگ-تسویگ. فلی-گِن ایست زو اِش-نِل اوند بی-لیخ!",
+          "meaning": {
+            "fa": "من هواپیما می‌گیرم. پرواز خیلی سریع و ارزان است!",
+            "en": "I take the plane. Flying is so fast and cheap!",
+            "de": "Ich nehme das Flugzeug."
+          }
+        },
+        {
+          "speaker": "Ben",
+          "german": "Na ja, billig, das stimmt, aber schnell! Eine Stunde warten...",
+          "persian": "نا یا، بی-لیخ، داس اِتیمپتْ، آبِر اِش-نِل! اینِه اشتون-دِه وار-تِن...",
+          "meaning": {
+            "fa": "خب، ارزان، درست است، اما سریع! یک ساعت انتظار...",
+            "en": "Well, cheap, that's true, but fast! One hour waiting...",
+            "de": "Na ja, billig, das stimmt, aber schnell!"
+          }
+        },
+        {
+          "speaker": "Ben",
+          "german": "Ich nehme den ICE. Man kann lesen und arbeiten.",
+          "persian": "ایخ نِ-مِه دِن این-تسِه-اِه. مان کان لِ-زِن اوند آر-بای-تِن.",
+          "meaning": {
+            "fa": "من قطار ICE می‌گیرم. می‌توان خواند و کار کرد.",
+            "en": "I take the ICE. You can read and work.",
+            "de": "Ich nehme den ICE."
+          }
+        }
+      ],
+      "analysis": [
+        {
+          "phrase": "wie kommst du nach Berlin",
+          "persian": "وای کومست دو ناخ بِر-لین",
+          "meaning": "چطور به برلین می‌روی (nach + شهر)"
+        },
+        {
+          "phrase": "Ich nehme das Flugzeug",
+          "persian": "ایخ نِ-مِه داس فلوگ-تسویگ",
+          "meaning": "هواپیما می‌گیرم (nehmen + Akk خنثی)"
+        },
+        {
+          "phrase": "aber schnell",
+          "persian": "آبِر اِش-نِل",
+          "meaning": "اما سریع (aber = تضاد)"
+        },
+        {
+          "phrase": "Ich nehme den ICE",
+          "persian": "ایخ نِ-مِه دِن این-تسِه-اِه",
+          "meaning": "قطار ICE می‌گیرم (nehmen + Akk مذکر: der→den)"
+        },
+        {
+          "phrase": "lesen und arbeiten",
+          "persian": "لِ-زِن اوند آر-بای-تِن",
+          "meaning": "خواندن و کار کردن (und = افزودن)"
+        }
+      ]
+    }
+  ],
+  "cultureNotes": {
+    "fa": "در آلمان، حمل‌ونقل عمومی (öffentlicher Verkehr) بسیار توسعه‌یافته است. U-Bahn (مترو)، S-Bahn (قطار حومه)، Straßenbahn (تراموا) و Bus در تمام شهرهای بزرگ وجود دارند.\n\nبلیت‌ها (Fahrscheine) معمولاً برای تمام وسایل نقلیه‌ی یک شهر معتبرند. می‌توانید بلیت روزانه (Tageskarte)، هفتگی (Wochenkarte) یا ماهانه (Monatskarte) بخرید. در برلین، بلیت با اپلیکیشن smartphone هم قابل خرید است.\n\nCarsharing (مثل DriveNow و Car2Go) در شهرهای بزرگ محبوب است. شما می‌توانید ماشین را با اپلیکیشن پیدا کنید، استفاده کنید و در هر جایی رها کنید.\n\nنکته: در آلمان، دوچرخه‌سواری (Radfahren) یک فرهنگ است. مسیرهای دوچرخه (Fahrradwege) در تمام شهرها وجود دارند. در برلین، بیش از ۳۰۰ پیک دوچرخه‌سوار (Fahrradkuriere) کار می‌کنند.\n\nکلمه‌ی Stau (ترافیک) در آلمان بسیار رایج است — مخصوصاً در Autobahn (بزرگراه). آلمانی‌ها از ترافیک متنفرند و به همین دلیل ترجیح می‌دهند با قطار سفر کنند.",
+    "en": "Germany has excellent public transport (öffentlicher Verkehr): U-Bahn, S-Bahn, Straßenbahn and Bus operate in all major cities.\n\nTickets (Fahrscheine) are usually valid across all transport in a city. You can buy daily (Tageskarte), weekly (Wochenkarte) or monthly (Monatskarte) tickets. In Berlin, tickets can be bought via smartphone apps.\n\nCarsharing (like DriveNow and Car2Go) is popular in big cities. You find a car via app, use it, and leave it anywhere.\n\nNote: Cycling (Radfahren) is a culture in Germany. Bike lanes (Fahrradwege) are everywhere. Berlin has over 300 bike couriers (Fahrradkuriere).\n\nStau (traffic jam) is very common — especially on the Autobahn. Germans hate traffic, which is why many prefer train travel.",
+    "de": "Deutschland hat einen ausgezeichneten öffentlichen Nahverkehr: U-Bahn, S-Bahn, Straßenbahn und Bus.\n\nFahrscheine gelten meist für alle Verkehrsmittel in einer Stadt. Tageskarte, Wochenkarte, Monatskarte.\n\nCarsharing (DriveNow, Car2Go) ist in Großstädten beliebt.\n\nRadfahren ist Kultur in Deutschland. Fahrradwege überall.\n\nStau ist häufig, besonders auf der Autobahn."
+  },
+  "exercises": {
+    "greeting_practice": [
+      {
+        "id": "ex-transport-1",
+        "type": "match_situation",
+        "title": {
+          "fa": "تمرین ۱: وسایل نقلیه را پیدا کنید",
+          "en": "Exercise 1: Match Transportation",
+          "de": "Übung 1: Verkehrsmittel zuordnen"
+        },
+        "instructions": {
+          "fa": "برای هر توصیف، وسیله نقلیه‌ی درست را انتخاب کنید.",
+          "en": "For each description, choose the correct transport.",
+          "de": "Wählen Sie das richtige Verkehrsmittel."
+        },
+        "questions": [
+          {
+            "id": "t1-q1",
+            "situation": {
+              "fa": "در آسمان پرواز می‌کند",
+              "en": "It flies in the sky",
+              "de": "Es fliegt"
+            },
+            "options": {
+              "fa": ["اتوبوس", "هواپیما", "دوچرخه", "مترو"],
+              "en": ["Bus", "Airplane", "Bicycle", "Subway"],
+              "de": ["Bus", "Flugzeug", "Fahrrad", "U-Bahn"]
+            },
+            "correctIndex": 1,
+            "explanation": {
+              "fa": "Flugzeug = هواپیما",
+              "en": "Flugzeug = airplane",
+              "de": "Flugzeug = Flugzeug"
+            }
+          },
+          {
+            "id": "t1-q2",
+            "situation": {
+              "fa": "زیر زمین می‌رود",
+              "en": "It goes underground",
+              "de": "Es fährt unterirdisch"
+            },
+            "options": {
+              "fa": ["مترو", "ماشین", "تاکسی", "قطار"],
+              "en": ["Subway", "Car", "Taxi", "Train"],
+              "de": ["U-Bahn", "Auto", "Taxi", "Zug"]
+            },
+            "correctIndex": 0,
+            "explanation": {
+              "fa": "U-Bahn = مترو (Untergrund-Bahn)",
+              "en": "U-Bahn = subway (underground train)",
+              "de": "U-Bahn = U-Bahn"
+            }
+          },
+          {
+            "id": "t1-q3",
+            "situation": {
+              "fa": "دو چرخ دارد و با پدال حرکت می‌کند",
+              "en": "Two wheels, moves with pedals",
+              "de": "Zwei Räder, Pedale"
+            },
+            "options": {
+              "fa": ["اتوبوس", "موتورسیکلت", "دوچرخه", "تراموا"],
+              "en": ["Bus", "Motorcycle", "Bicycle", "Tram"],
+              "de": ["Bus", "Motorrad", "Fahrrad", "Straßenbahn"]
+            },
+            "correctIndex": 2,
+            "explanation": {
+              "fa": "Fahrrad = دوچرخه",
+              "en": "Fahrrad = bicycle",
+              "de": "Fahrrad = Fahrrad"
+            }
+          },
+          {
+            "id": "t1-q4",
+            "situation": {
+              "fa": "روی ریل می‌رود و مسافران زیادی دارد",
+              "en": "Runs on rails, many passengers",
+              "de": "Fährt auf Schienen, viele Passagiere"
+            },
+            "options": {
+              "fa": ["ماشین", "تاکسی", "قطار", "دوچرخه"],
+              "en": ["Car", "Taxi", "Train", "Bicycle"],
+              "de": ["Auto", "Taxi", "Zug", "Fahrrad"]
+            },
+            "correctIndex": 2,
+            "explanation": {
+              "fa": "Zug = قطار",
+              "en": "Zug = train",
+              "de": "Zug = Zug"
+            }
+          }
+        ]
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "ex-mit-dativ-1",
+        "type": "fill_in",
+        "title": {
+          "fa": "تمرین ۲: mit + Dativ",
+          "en": "Exercise 2: mit + Dative",
+          "de": "Übung 2: mit + Dativ"
+        },
+        "instructions": {
+          "fa": "حرف تعریف درست در Dativ را با mit پر کنید.",
+          "en": "Fill in the correct dative article with mit.",
+          "de": "Füllen Sie den richtigen Dativartikel mit mit ein."
+        },
+        "questions": [
+          {
+            "id": "m1-q1",
+            "prompt": {
+              "fa": "Ich fahre mit ___ Bus. (مذکر)",
+              "en": "Ich fahre mit ___ Bus. (masculine)",
+              "de": "Ich fahre mit ___ Bus. (maskulin)"
+            },
+            "placeholder": "dem"
+          },
+          {
+            "id": "m1-q2",
+            "prompt": {
+              "fa": "Ich fahre mit ___ U-Bahn. (مؤنث)",
+              "en": "Ich fahre mit ___ U-Bahn. (feminine)",
+              "de": "Ich fahre mit ___ U-Bahn. (feminin)"
+            },
+            "placeholder": "der"
+          },
+          {
+            "id": "m1-q3",
+            "prompt": {
+              "fa": "Ich fahre mit ___ Auto. (خنثی)",
+              "en": "Ich fahre mit ___ Auto. (neuter)",
+              "de": "Ich fahre mit ___ Auto. (neutral)"
+            },
+            "placeholder": "dem"
+          },
+          {
+            "id": "m1-q4",
+            "prompt": {
+              "fa": "Ich fahre mit ___ Straßenbahn. (مؤنث)",
+              "en": "Ich fahre mit ___ Straßenbahn. (feminine)",
+              "de": "Ich fahre mit ___ Straßenbahn. (feminin)"
+            },
+            "placeholder": "der"
+          },
+          {
+            "id": "m1-q5",
+            "prompt": {
+              "fa": "Ich fahre mit ___ Zug. (مذکر)",
+              "en": "Ich fahre mit ___ Zug. (masculine)",
+              "de": "Ich fahre mit ___ Zug. (maskulin)"
+            },
+            "placeholder": "dem"
+          },
+          {
+            "id": "m1-q6",
+            "prompt": {
+              "fa": "Ich fahre mit ___ Fahrrad. (خنثی)",
+              "en": "Ich fahre mit ___ Fahrrad. (neuter)",
+              "de": "Ich fahre mit ___ Fahrrad. (neutral)"
+            },
+            "placeholder": "dem"
+          }
+        ]
+      }
+    ],
+    "role_play": [
+      {
+        "id": "ex-role-1",
+        "type": "role_play",
+        "title": {
+          "fa": "تمرین ۳: چطور می‌روی؟",
+          "en": "Exercise 3: How Do You Go?",
+          "de": "Übung 3: Wie kommst du?"
+        },
+        "scenarios": [
+          {
+            "id": "rp1-s1",
+            "title": {
+              "fa": "سناریو: نحوه‌ی رفت‌وآمد",
+              "en": "Scenario: Commuting",
+              "de": "Szene: Pendeln"
+            },
+            "lines": [
+              {
+                "speaker": "Freund",
+                "german": "Wie kommst du ins Büro?",
+                "persian": "وای کومست دو اینس بو-رو؟",
+                "meaning": {
+                  "fa": "چطور به دفتر می‌روی؟",
+                  "en": "How do you get to the office?",
+                  "de": "Wie kommst du ins Büro?"
+                }
+              },
+              {
+                "speaker": "Du",
+                "german": "Ich fahre mit ______.",
+                "persian": "ایخ فا-رِه میت ______.",
+                "meaning": {
+                  "fa": "من با ______ می‌روم.",
+                  "en": "I go by ______.",
+                  "de": "Ich fahre mit ______."
+                }
+              },
+              {
+                "speaker": "Freund",
+                "german": "Und wie kommst du zur Uni?",
+                "persian": "اوند وای کومست دو تسور او-نی؟",
+                "meaning": {
+                  "fa": "و چطور به دانشگاه می‌روی؟",
+                  "en": "And how do you get to university?",
+                  "de": "Und wie kommst du zur Uni?"
+                }
+              },
+              {
+                "speaker": "Du",
+                "german": "Ich gehe ______ zu Fuß. / Ich nehme ______.",
+                "persian": "ایخ گِهه ______ تسو فوس. / ایخ نِ-مِه ______.",
+                "meaning": {
+                  "fa": "پیاده می‌روم. / ______ می‌گیرم.",
+                  "en": "I go on foot. / I take ______.",
+                  "de": "Ich gehe zu Fuß. / Ich nehme ______."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "du_vs_sie": [
+      {
+        "id": "ex-akk-pron-1",
+        "type": "match_situation",
+        "title": {
+          "fa": "تمرین ۴: ضمیر Akkusativ",
+          "en": "Exercise 4: Accusative Pronouns",
+          "de": "Übung 4: Akkusativpronomen"
+        },
+        "instructions": {
+          "fa": "ضمیر Akkusativ درست را انتخاب کنید.",
+          "en": "Choose the correct accusative pronoun.",
+          "de": "Wählen Sie das richtige Akkusativpronomen."
+        },
+        "questions": [
+          {
+            "id": "a1-q1",
+            "situation": {
+              "fa": "Ich sehe ___ (du).",
+              "en": "I see ___ (you).",
+              "de": "Ich sehe ___ (du)."
+            },
+            "options": {
+              "fa": ["du", "dich", "dir", "dein"],
+              "en": ["du", "dich", "dir", "dein"],
+              "de": ["du", "dich", "dir", "dein"]
+            },
+            "correctIndex": 1,
+            "explanation": {
+              "fa": "du → dich در Akkusativ",
+              "en": "du → dich in accusative",
+              "de": "du → dich im Akkusativ"
+            }
+          },
+          {
+            "id": "a1-q2",
+            "situation": {
+              "fa": "Holst du ___ ab? (ich)",
+              "en": "Are you picking ___ up? (me)",
+              "de": "Holst du ___ ab? (ich)"
+            },
+            "options": {
+              "fa": ["ich", "mich", "mir", "mein"],
+              "en": ["ich", "mich", "mir", "mein"],
+              "de": ["ich", "mich", "mir", "mein"]
+            },
+            "correctIndex": 1,
+            "explanation": {
+              "fa": "ich → mich در Akkusativ",
+              "en": "ich → mich in accusative",
+              "de": "ich → mich im Akkusativ"
+            }
+          },
+          {
+            "id": "a1-q3",
+            "situation": {
+              "fa": "Ich sehe ___ (er).",
+              "en": "I see ___ (him).",
+              "de": "Ich sehe ___ (er)."
+            },
+            "options": {
+              "fa": ["er", "ihn", "ihm", "sein"],
+              "en": ["er", "ihn", "ihm", "sein"],
+              "de": ["er", "ihn", "ihm", "sein"]
+            },
+            "correctIndex": 1,
+            "explanation": {
+              "fa": "er → ihn در Akkusativ",
+              "en": "er → ihn in accusative",
+              "de": "er → ihn im Akkusativ"
+            }
+          }
+        ]
+      }
+    ],
+    "pronunciation": [
+      {
+        "id": "ex-pron-1",
+        "type": "pronunciation",
+        "title": {
+          "fa": "تمرین ۵: تلفظ وسایل نقلیه",
+          "en": "Exercise 5: Pronouncing Transportation",
+          "de": "Übung 5: Verkehrsmittel aussprechen"
+        },
+        "instructions": {
+          "fa": "کلمات زیر را با تلفظ فارسی بلند بگویید.",
+          "en": "Pronounce the following words aloud.",
+          "de": "Sprechen Sie die folgenden Wörter laut aus."
+        },
+        "words": [
+          {
+            "word": "das Auto",
+            "persian": "داس آو-تو",
+            "meaning": "ماشین"
+          },
+          {
+            "word": "der Bus",
+            "persian": "دِر بوس",
+            "meaning": "اتوبوس"
+          },
+          {
+            "word": "die U-Bahn",
+            "persian": "دی او-بان",
+            "meaning": "مترو"
+          },
+          {
+            "word": "die Straßenbahn",
+            "persian": "دی اِترا-زِن-بان",
+            "meaning": "تراموا"
+          },
+          {
+            "word": "das Fahrrad",
+            "persian": "داس فار-رات",
+            "meaning": "دوچرخه"
+          },
+          {
+            "word": "der Zug",
+            "persian": "دِر تسوک",
+            "meaning": "قطار"
+          },
+          {
+            "word": "das Flugzeug",
+            "persian": "داس فلوگ-تسویگ",
+            "meaning": "هواپیما"
+          },
+          {
+            "word": "der Stau",
+            "persian": "دِر اِشداو",
+            "meaning": "ترافیک"
+          },
+          {
+            "word": "die Abfahrt",
+            "persian": "دی آپ-فارت",
+            "meaning": "حرکت"
+          },
+          {
+            "word": "mit dem Bus",
+            "persian": "میت دِم بوس",
+            "meaning": "با اتوبوس"
+          }
+        ],
+        "focus": {
+          "fa": "توجه: 'au' کشیده (Auto, Stau) • 'st' مثل شت (Straßenbahn, Stau) • 'sch' مثل ش (Straßenbahn) • 'ß' مثل س سخت (Straßenbahn) • 'z' مثل تس (Zug, Flugzeug) • 'eu' مثل او-ی (Flugzeug) • 'V' مثل ف (Verkehr)",
+          "en": "Pay attention to: long 'au' • 'st' like 'sht' • 'sch' like 'sh' • 'ß' like hard 's' • 'z' like 'ts' • 'eu' like 'oi' • 'V' like 'f'",
+          "de": "Achten Sie auf: au • st • sch • ß • z • eu • V"
+        }
+      }
+    ]
+  },
+  "review": {
+    "title": {
+      "fa": "مرور درس ۸",
+      "en": "Lesson 8 Review",
+      "de": "Lektion 8 Überprüfung"
+    },
+    "quiz": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "question": {
+          "fa": "'Ich fahre mit der U-Bahn.' به چه معنی؟",
+          "en": "What does 'Ich fahre mit der U-Bahn' mean?",
+          "de": "Was bedeutet 'Ich fahre mit der U-Bahn'?"
+        },
+        "options": {
+          "fa": [
+            "من با اتوبوس می‌روم",
+            "من با مترو می‌روم",
+            "من پیاده می‌روم",
+            "من با ماشین می‌روم"
+          ],
+          "en": [
+            "I go by bus",
+            "I go by subway",
+            "I go on foot",
+            "I go by car"
+          ],
+          "de": [
+            "Ich fahre mit dem Bus",
+            "Ich fahre mit der U-Bahn",
+            "Ich gehe zu Fuß",
+            "Ich fahre mit dem Auto"
+          ]
+        },
+        "correctIndex": 1,
+        "explanation": {
+          "fa": "mit der U-Bahn = با مترو (mit + Dativ مؤنث)",
+          "en": "mit der U-Bahn = by subway (mit + dative feminine)",
+          "de": "mit der U-Bahn = mit der U-Bahn (mit + Dativ feminin)"
+        }
+      },
+      {
+        "id": "r2",
+        "type": "multiple_choice",
+        "question": {
+          "fa": "ضمیر Akkusativ برای 'ich' چیست؟",
+          "en": "What is the accusative pronoun for 'ich'?",
+          "de": "Wie lautet das Akkusativpronomen für 'ich'?"
+        },
+        "options": {
+          "fa": ["ich", "mich", "mir", "mein"],
+          "en": ["ich", "mich", "mir", "mein"],
+          "de": ["ich", "mich", "mir", "mein"]
+        },
+        "correctIndex": 1,
+        "explanation": {
+          "fa": "ich → mich در Akkusativ",
+          "en": "ich → mich in accusative",
+          "de": "ich → mich im Akkusativ"
+        }
+      },
+      {
+        "id": "r3",
+        "type": "multiple_choice",
+        "question": {
+          "fa": "'mit dem Bus' — 'dem' در چه حالتی است؟",
+          "en": "'mit dem Bus' — what case is 'dem'?",
+          "de": "'mit dem Bus' — welcher Kasus ist 'dem'?"
+        },
+        "options": {
+          "fa": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+          "en": ["Nominative", "Accusative", "Dative", "Genitive"],
+          "de": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"]
+        },
+        "correctIndex": 2,
+        "explanation": {
+          "fa": "mit همیشه با Dativ می‌آید",
+          "en": "mit always takes dative",
+          "de": "mit + Dativ (immer!)"
+        }
+      },
+      {
+        "id": "r4",
+        "type": "multiple_choice",
+        "question": {
+          "fa": "'Ich nehme den ICE.' به چه معنی؟",
+          "en": "What does 'Ich nehme den ICE' mean?",
+          "de": "Was bedeutet 'Ich nehme den ICE'?"
+        },
+        "options": {
+          "fa": [
+            "من قطار ICE را انتخاب می‌کنم",
+            "من قطار می‌فروشم",
+            "من قطار می‌سازم",
+            "من قطار ندارم"
+          ],
+          "en": [
+            "I take the ICE train",
+            "I sell the train",
+            "I build a train",
+            "I don't have a train"
+          ],
+          "de": [
+            "Ich nehme den ICE",
+            "Ich verkaufe den Zug",
+            "Ich baue einen Zug",
+            "Ich habe keinen Zug"
+          ]
+        },
+        "correctIndex": 0,
+        "explanation": {
+          "fa": "nehmen + Akkusativ: den ICE (der → den)",
+          "en": "nehmen + accusative: den ICE (der → den)",
+          "de": "nehmen + Akkusativ: den ICE (der → den)"
+        }
+      },
+      {
+        "id": "r5",
+        "type": "multiple_choice",
+        "question": {
+          "fa": "کدام حرف ربط برای تضاد استفاده می‌شود؟",
+          "en": "Which conjunction expresses contrast?",
+          "de": "Welche Konjunktion zeigt Gegensatz?"
+        },
+        "options": {
+          "fa": ["und", "aber", "oder", "denn"],
+          "en": ["und", "aber", "oder", "denn"],
+          "de": ["und", "aber", "oder", "denn"]
+        },
+        "correctIndex": 1,
+        "explanation": {
+          "fa": "aber = اما (تضاد)",
+          "en": "aber = but (contrast)",
+          "de": "aber = aber (Gegensatz)"
+        }
+      }
+    ]
+  },
+  "assessment": {
+    "title": {
+      "fa": "آزمون پایان درس ۸",
+      "en": "Lesson 8 Final Assessment",
+      "de": "Lektion 8 Abschlussbewertung"
+    },
+    "totalQuestions": 15,
+    "passingScore": 70,
+    "sections": {
+      "greetings": {
+        "count": 3,
+        "questions": []
+      },
+      "vocabulary": {
+        "count": 4,
+        "questions": []
+      },
+      "grammar": {
+        "count": 4,
+        "questions": []
+      },
+      "dialogues": {
+        "count": 2,
+        "questions": []
+      },
+      "du_vs_sie": {
+        "count": 2,
+        "questions": []
+      }
+    },
+    "selfEvaluation": {
+      "fa": [
+        "آیا می‌توانید وسایل نقلیه را نام ببرید؟",
+        "آیا mit + Dativ را بلدید؟",
+        "آیا ضمیرهای Akkusativ را بلدید؟",
+        "آیا und و aber را استفاده می‌کنید؟",
+        "آیا می‌توانید بپرسید چطور می‌روی؟",
+        "آیا می‌توانید در ایستگاه راه پیدا کنید؟"
+      ],
+      "en": [
+        "Can you name transportation?",
+        "Do you know mit + dative?",
+        "Do you know accusative pronouns?",
+        "Can you use und and aber?",
+        "Can you ask how to get somewhere?",
+        "Can you navigate a station?"
+      ],
+      "de": [
+        "Können Sie Verkehrsmittel nennen?",
+        "Kennen Sie mit + Dativ?",
+        "Kennen Sie Akkusativpronomen?",
+        "Können Sie und/aber verwenden?",
+        "Können Sie nach dem Weg fragen?"
+      ]
+    },
+    "recommendations": {
+      "pass": {
+        "fa": "آماده‌ی درس ۹!",
+        "en": "Ready for Lesson 9!",
+        "de": "Bereit für Lektion 9!"
+      },
+      "fail": {
+        "fa": "مرور کنید.",
+        "en": "Review.",
+        "de": "Überprüfen."
+      }
+    }
+  },
+  "cheatSheet": {
+    "greetings": [],
+    "pronouns": [],
+    "duVsSie": [],
+    "transportVerbs": [
+      {
+        "de": "mit dem Bus fahren",
+        "fa": "با اتوبوس رفتن"
+      },
+      {
+        "de": "mit der U-Bahn fahren",
+        "fa": "با مترو رفتن"
+      },
+      {
+        "de": "den Zug nehmen",
+        "fa": "قطار گرفتن"
+      },
+      {
+        "de": "das Flugzeug nehmen",
+        "fa": "هواپیما گرفتن"
+      },
+      {
+        "de": "zu Fuß gehen",
+        "fa": "پیاده رفتن"
+      },
+      {
+        "de": "ein Auto mieten",
+        "fa": "ماشین اجاره کردن"
+      },
+      {
+        "de": "jemanden abholen",
+        "fa": "کسی را برداشتن"
+      }
+    ],
+    "akkusativPronouns": [
+      {
+        "nominativ": "ich",
+        "akkusativ": "mich",
+        "fa": "مرا"
+      },
+      {
+        "nominativ": "du",
+        "akkusativ": "dich",
+        "fa": "تورا"
+      },
+      {
+        "nominativ": "er",
+        "akkusativ": "ihn",
+        "fa": "او را (مرد)"
+      },
+      {
+        "nominativ": "sie",
+        "akkusativ": "sie",
+        "fa": "او را (زن)"
+      },
+      {
+        "nominativ": "es",
+        "akkusativ": "es",
+        "fa": "آن را"
+      },
+      {
+        "nominativ": "wir",
+        "akkusativ": "uns",
+        "fa": "ما را"
+      },
+      {
+        "nominativ": "ihr",
+        "akkusativ": "euch",
+        "fa": "شما را (جمع)"
+      },
+      {
+        "nominativ": "sie/Sie",
+        "akkusativ": "sie/Sie",
+        "fa": "آن‌ها/شما را"
+      }
+    ],
+    "mitDativTable": [
+      {
+        "gender": "مذکر",
+        "form": "mit dem",
+        "example": "mit dem Bus, mit dem Zug"
+      },
+      {
+        "gender": "مؤنث",
+        "form": "mit der",
+        "example": "mit der U-Bahn, mit der Straßenbahn"
+      },
+      {
+        "gender": "خنثی",
+        "form": "mit dem",
+        "example": "mit dem Auto, mit dem Fahrrad"
+      },
+      {
+        "gender": "پیاده",
+        "form": "zu Fuß (بدون mit)",
+        "example": "Ich gehe zu Fuß."
+      }
+    ],
+    "conjunctions": [
+      {
+        "de": "und",
+        "fa": "و (افزودن)",
+        "example": "Busse sind billig und bequem."
+      },
+      {
+        "de": "aber",
+        "fa": "اما (تضاد)",
+        "example": "Fliegen ist schnell, aber teuer."
+      }
+    ],
+    "stationWords": [
+      {
+        "de": "der Bahnhof",
+        "fa": "ایستگاه قطار"
+      },
+      {
+        "de": "das Gleis",
+        "fa": "سکره"
+      },
+      {
+        "de": "die Abfahrt",
+        "fa": "حرکت"
+      },
+      {
+        "de": "ankommen",
+        "fa": "رسیدن"
+      },
+      {
+        "de": "abholen",
+        "fa": "برداشتن (کسی)"
+      }
+    ],
+    "keyPhrases": [
+      {
+        "de": "Wie kommst du hin?",
+        "fa": "چطور می‌روی؟"
+      },
+      {
+        "de": "Ich fahre mit dem Bus.",
+        "fa": "با اتوبوس می‌روم"
+      },
+      {
+        "de": "Ich nehme den Zug.",
+        "fa": "قطار می‌گیرم"
+      },
+      {
+        "de": "Ich gehe zu Fuß.",
+        "fa": "پیاده می‌روم"
+      },
+      {
+        "de": "Holst du mich ab?",
+        "fa": "مرا برمی‌داری؟"
+      },
+      {
+        "de": "Der Zug fährt ab auf Gleis 5.",
+        "fa": "قطار از سکره ۵ حرکت می‌کند"
+      }
+    ],
+    "grammar": [
+      {
+        "title": "mit + Dativ",
+        "summary": "برای وسیله نقلیه: mit dem (مذکر/خنثی), mit der (مؤنث)"
+      },
+      {
+        "title": "Akkusativpronomen",
+        "summary": "ich→mich, du→dich, er→ihn, wir→uns, ihr→euch"
+      },
+      {
+        "title": "und / aber",
+        "summary": "جایگاه فعل تغییر نمی‌کند"
+      },
+      {
+        "title": "nehmen + Akk",
+        "summary": "Ich nehme den Bus / das Auto / das Flugzeug"
+      }
+    ],
+    "commonMistakes": [
+      "استفاده از Akkusativ به‌جای Dativ بعد از mit",
+      "فراموش کردن تغییر er → ihn در Akkusativ",
+      "استفاده از mit die به‌جای mit der",
+      "فراموش کردن جدا کردن فعل ankommen (Ich komme an)"
+    ],
+    "usefulTips": [
+      "mit همیشه با Dativ: mit dem/der + وسیله نقلیه",
+      "zu Fuß = پیاده (بدون mit)",
+      "und و aber جایگاه فعل را تغییر نمی‌دهند",
+      "nehmen + Akkusativ برای انتخاب وسیله: den Bus, das Auto"
+    ]
+  },
+  "lessonSummary": {
+    "fa": "در درس ۸، شما با وسایل نقلیه، حرف اضافه‌ی mit + Dativ، ضمیرهای Akkusativ (mich, dich, ihn...)، حروف ربط und و aber، و عبارات ایستگاه آشنا شدید. شما یاد گرفتید چگونه درباره‌ی نحوه‌ی رفت‌وآمد صحبت کنید و مسیر بپرسید.",
+    "en": "In Lesson 8, you learned transportation, mit + dative, accusative pronouns, conjunctions und/aber, and station vocabulary. You learned to discuss commuting and ask for directions.",
+    "de": "In Lektion 8 haben Sie Verkehrsmittel, mit + Dativ, Akkusativpronomen, und/aber und Bahnhofsvokabular gelernt."
+  },
+  "metadata": {
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-10",
+    "version": "2.1.0",
+    "author": "German Academy Team",
+    "status": "published",
+    "tags": [
+      "transportation",
+      "verkehrsmittel",
+      "mit-dativ",
+      "akkusativ-pronomen",
+      "und-aber",
+      "bahnhof",
+      "directions",
+      "A1"
+    ],
+    "difficulty": 3,
+    "prerequisites": [
+      "A1-L01",
+      "A1-L02",
+      "A1-L03",
+      "A1-L04",
+      "A1-L05",
+      "A1-L06",
+      "A1-L07"
+    ]
+  }
+}

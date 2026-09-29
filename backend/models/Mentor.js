@@ -1,0 +1,116 @@
+/**
+ * Mentor.js
+ * Path: backend/models/Mentor.js
+ * Description: Mentor model for mentors who teach
+ * Changes:
+ * - ✅ FIXED: Changed ID type from UUID to STRING(50) for custom IDs
+ * - ✅ FIXED: Proper JSONB defaults with Sequelize.literal
+ * - ✅ FIXED: Added indexes for performance
+ */
+
+import { DataTypes, Sequelize } from "sequelize";
+import sequelize from "../config/db.js";
+
+const Mentor = sequelize.define(
+  "Mentor",
+  {
+    id: {
+      type: DataTypes.STRING(50), // ✅ Changed from UUID to STRING
+      primaryKey: true,
+      allowNull: false,
+    },
+    userId: {
+      type: DataTypes.UUID,
+      allowNull: false,
+      field: "user_id",
+    },
+    level: {
+      type: DataTypes.ENUM("A1", "A2", "B1", "B2", "C1", "C2"),
+      allowNull: false,
+    },
+    name: {
+      type: DataTypes.STRING(100),
+      allowNull: true,
+    },
+    hourlyRate: {
+      type: DataTypes.DECIMAL(10, 2),
+      allowNull: false,
+      field: "hourly_rate",
+      defaultValue: 15.0,
+      validate: {
+        min: 0,
+      },
+    },
+    isVerified: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: false,
+      field: "is_verified",
+    },
+    rating: {
+      type: DataTypes.FLOAT,
+      defaultValue: 0,
+      validate: {
+        min: 0,
+        max: 5,
+      },
+    },
+    totalStudents: {
+      type: DataTypes.INTEGER,
+      defaultValue: 0,
+      field: "total_students",
+    },
+    availableHours: {
+      type: DataTypes.JSON,
+      defaultValue: {},
+      field: "available_hours",
+    },
+    languages: {
+      type: DataTypes.JSON,
+      defaultValue: ["fa", "de"],
+    },
+    specializations: {
+      type: DataTypes.JSON,
+      defaultValue: [],
+    },
+    bio: {
+      type: DataTypes.JSON,
+      defaultValue: {},
+    },
+    isActive: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: true,
+      field: "is_active",
+    },
+    createdAt: {
+      type: DataTypes.DATE,
+      allowNull: true,
+      defaultValue: DataTypes.NOW,
+    },
+    updatedAt: {
+      type: DataTypes.DATE,
+      allowNull: true,
+      defaultValue: DataTypes.NOW,
+    },
+  },
+  {
+    tableName: "mentors",
+    timestamps: true,
+    underscored: true,
+    indexes: [
+      {
+        fields: ["user_id"],
+        name: "idx_mentors_user",
+      },
+      {
+        fields: ["level"],
+        name: "idx_mentors_level",
+      },
+      {
+        fields: ["is_active"],
+        name: "idx_mentors_active",
+      },
+    ],
+  }
+);
+
+export default Mentor;
